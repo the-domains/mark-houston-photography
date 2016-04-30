@@ -1,0 +1,28 @@
+name: 'MARK HOUSTON PHOTOGRAPHY  '
+favicon: null
+layout_spectrum: 0.6302112773992121
+typography_spectrum: 0.7080141135957092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5542387997265905
+  lightness: 0.9569250217173249
+  saturation: 0.5000978242605925
+  rhythmicContrast: 0.9139660291839391
+purpose: []
