@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fine Art Landscape and Architectural photographer based in New England. Custom sized art prints for your home and office. Photographic murals in any size. Image Licensing available. ]]></title>
+        <description><![CDATA[Fine Art Landscape and Architectural photographer based in New England. Custom sized art prints for your home and office. Photographic murals in any size. Image Licensing available. ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 02:11:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home page test page]]></title>
+            <description><![CDATA[<article><h1>Home page test page</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c57ec30ba8062171b8956fef49cc630bc057d474.jpg"></article>]]></description>
+            <link>undefinedhome-page-test-page/index.html</link>
+            <guid isPermaLink="false">714934fe-8b1a-41ee-afd4-c47c62d52190</guid>
+            <pubDate>Sat, 21 May 2016 02:11:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
